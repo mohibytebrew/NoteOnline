@@ -55,7 +55,7 @@ class SignInFragment<NavController> : Fragment() {
 
 
             if (email.isNotEmpty() && pass.isNotEmpty()) {
-                auth.createUserWithEmailAndPassword(email, pass).addOnCompleteListener(
+                auth.signInWithEmailAndPassword(email, pass).addOnCompleteListener(
                     OnCompleteListener {
                         if (it.isSuccessful) {
                             Toast.makeText(context, "Login Successfully", Toast.LENGTH_SHORT).show()

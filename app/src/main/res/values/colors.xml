@@ -8,4 +8,6 @@
     <color name="pink">#e494d9</color>
     <color name="blue">#9766ea</color>
     <color name="light_bllue">#b8e5ef</color>
+
+    <color name ="text_color">black</color>
 </resources>

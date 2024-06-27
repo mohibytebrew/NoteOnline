@@ -109,7 +109,7 @@
                 android:layout_height="match_parent"
                 android:background="@color/purple_200"
                 android:hint="@string/enter_your_password"
-                android:inputType="textEmailAddress"
+                android:inputType="textPassword"
                 android:paddingStart="12dp"
                 android:paddingTop="15dp" />
 
