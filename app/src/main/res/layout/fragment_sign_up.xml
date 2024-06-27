@@ -60,7 +60,7 @@
 
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:background="@color/purple_400"
+            android:background="@color/purple_200"
             app:boxStrokeWidth="0dp"
             app:boxStrokeWidthFocused="0dp"
             app:hintEnabled="false">
@@ -69,7 +69,7 @@
                 android:id="@+id/emailEt"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@color/purple_400"
+                android:background="@color/purple_200"
                 android:hint="@string/enter_your_email"
                 android:inputType="textEmailAddress"
                 android:paddingStart="12dp"
@@ -97,7 +97,7 @@
 
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:background="@color/purple_400"
+            android:background="@color/purple_200"
             app:boxStrokeWidth="0dp"
             app:boxStrokeWidthFocused="0dp"
             app:passwordToggleEnabled="true"
@@ -107,7 +107,7 @@
                 android:id="@+id/passEt"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@color/purple_400"
+                android:background="@color/purple_200"
                 android:hint="@string/enter_your_password"
                 android:inputType="textEmailAddress"
                 android:paddingStart="12dp"
@@ -135,7 +135,7 @@
 
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:background="@color/purple_400"
+            android:background="@color/purple_200"
             app:boxStrokeWidth="0dp"
             app:boxStrokeWidthFocused="0dp"
             app:passwordToggleEnabled="true"
@@ -146,7 +146,7 @@
                 android:id="@+id/verifyPassEt"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@color/purple_400"
+                android:background="@color/purple_200"
                 android:hint="@string/retype_your_password"
                 android:inputType="textEmailAddress"
                 android:paddingStart="12dp"
